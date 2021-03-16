@@ -1,0 +1,76 @@
+
+
+#image1 {
+    position: relative;
+    width: 20px;
+}
+ footer  {
+   background-color: black;
+  text-align: center;
+  color: aqua;
+}
+
+nav{
+  color: aqua;
+  background-color: black;
+  font-size: 1.5rem;
+}
+ #imageslider {
+   color: aqua;
+ }
+  footer  {
+    
+      color: aqua;
+      left: 0;
+    bottom: 0;
+    width: 100%;
+    height: auto;
+  }
+  
+  
+  body {
+    font-family: 'Times New Roman', serif;
+    
+  }
+  .mb-3 {
+    vertical-align: center;
+    text-align: center;
+  }
+  .loginid {
+    background-image: url("https://www.passivehousecanada.com/wp-content/uploads/2019/07/Canmore-1024x682.jpeg");
+    background-color: black;
+    color:white;
+    margin: auto;
+    padding: 10%;
+    width: 100%;
+    height: 100%;
+    
+  }
+
+  .card h5 {
+    color: rgb(64, 64, 255);
+  }
+ .intro-form p {
+   text-align: center;
+   font-size: 2rem;
+ }  
+ 
+
+form {
+  position: relative;
+  vertical-align: middle;
+ 
+}
+#btnlogin {
+  align-items: center;
+}
+#sale {
+  background-image: url("https://miro.medium.com/max/3840/1*xMuIOwjliGUPjkzukeWKfw.jpeg");
+  padding-top: 100px;
+  padding-bottom: 100px;
+  align-items: center;
+}
+ #imgsale img{
+  width: 500px;
+  height: 200px;
+}
